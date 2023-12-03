@@ -9,6 +9,6 @@ mechanical keyboards and KiCad. Recently I began to learn Rust.
 
 </br>
 
-<div align="right">
+<div align="left">
 <b>~</b> <a href="https://adamws.github.io">adamws.github.io</a> <b>|</b> <a href="https://keyboard-tools.xyz">keyboard-tool.xyz</a>
 </div>
