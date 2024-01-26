@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="54mm" height="54mm" version="1.1" viewBox="0 0 154 154" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(-28 -80)">
-    <g transform="translate(0 12.78)" stroke="#b3b3b3" stroke-linecap="round" stroke-width=".1">
-      <g fill="#00ab91">
-        <path d="m60.73 122.9v25.56l-22.14-12.78z"/>
-        <path d="m82.87 135.7v-12.78l22.13-5.2e-4 1e-3 5.2e-4z"/>
-        <path d="m82.86 135.7v12.78l22.13 5.2e-4 1e-3 -5.2e-4z"/>
-        <path d="m127.1 135.7-22.14-12.78 1e-3 -5.2e-4 22.13 1e-3z"/>
-        <path d="m127.1 135.7-22.14 12.78 1e-3 5.2e-4 22.13-1e-3z"/>
-        <path d="m149.3 122.9v25.56l22.14-12.78z"/>
-      </g>
-      <g fill="#005182">
-        <path d="m127.1 135.7 22.14-12.78v25.56z"/>
-        <path d="m171.4 122.9h-22.14l22.14 12.78z"/>
-        <path d="m171.4 148.5h-22.14l22.14-12.78z"/>
-        <path d="m38.6 122.9h22.14l-22.14 12.78z"/>
-        <path d="m38.6 148.5h22.14l-22.14-12.78z"/>
-        <path d="m82.86 135.7-22.14-12.78v25.56z"/>
-      </g>
-      <g fill="#f0f5f4">
-        <path d="m149.3 122.9h-22.14v12.78z"/>
-        <path d="m149.3 148.5h-22.14v-12.78z"/>
-        <path d="m60.73 122.9h22.14v12.78z"/>
-        <path d="m60.73 148.5h22.14v-12.78z"/>
-      </g>
+  <g transform="translate(-28,-67.22)" stroke="#b3b3b3" stroke-linecap="round" stroke-width=".1">
+    <g fill="#00ab91">
+      <path d="m60.73 122.9v25.56l-22.14-12.78z"/>
+      <path d="m82.87 135.7v-12.78l22.13-5.2e-4 1e-3 5.2e-4z"/>
+      <path d="m82.86 135.7v12.78l22.13 5.2e-4 1e-3 -5.2e-4z"/>
+    </g>
+    <g fill="#005182">
+      <path d="m38.6 122.9h22.14l-22.14 12.78z"/>
+      <path d="m38.6 148.5h22.14l-22.14-12.78z"/>
+      <path d="m82.86 135.7-22.14-12.78v25.56z"/>
+    </g>
+    <g fill="#f0f5f4">
+      <path d="m60.73 122.9h22.14v12.78z"/>
+      <path d="m60.73 148.5h22.14v-12.78z"/>
     </g>
   </g>
 </svg>

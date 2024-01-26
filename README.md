@@ -2,11 +2,8 @@
 
 #### Hello World
 
-I'm **adamws**, I do C/C++ for a living. I have professional experience with
-embedded Linux, low-level security and image processing.
-After hours I develop personal projects. Most of them revolve around
-mechanical keyboards and KiCad. Recently I began to learn Rust.
-
+I'm **adamws**, I do C/C++ for a living. In spare time I tinker with personal projects
+revolving around mechanical keyboards, KiCad and anything I find interesting.
 </br>
 
 <div align="left">
